@@ -22,7 +22,7 @@
 7. Recursion
 8. Binary Search
 9. Backtracking
-10.Binary Tree
+10.Binary Tree+"\n"
 11.Dynamic Programming
 
 <!-- MARKDOWN LINKS & IMAGES -->
