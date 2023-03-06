@@ -11,19 +11,21 @@
 1. Mostly Solved Questions in Java
 2. Some of Question in JavaScript
 
-## Mostly Topics
+## Mostly Fresher Topics
 1. Brute Force
 2. Sorting
-2. Two Pointer
-3. Sliding Window
-4. Stacks
-5. Queue
-6. LinkedList
-7. Recursion
-8. Binary Search
-9. Backtracking
-10.Binary Tree
-11.Dynamic Programming
+3. Two Pointer
+4. Sliding Window
+5. Stacks
+6. Queue
+
+## Mostly Experience Topics
+1. LinkedList
+2. Recursion
+3. Binary Search
+4. Backtracking
+5. Binary Tree
+6. Dynamic Programming
 
 ## End
 
