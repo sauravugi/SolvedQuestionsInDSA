@@ -22,8 +22,10 @@
 7. Recursion
 8. Binary Search
 9. Backtracking
-10.Binary Tree+"\n"
+10.Binary Tree
 11.Dynamic Programming
+
+##End
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
